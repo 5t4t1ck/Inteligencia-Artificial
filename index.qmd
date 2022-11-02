@@ -1,0 +1,113 @@
+---
+title: "Agentes Inteligentes"
+subtitle: ""
+date: "today"
+author: "Diego Saavedra García"
+lang: "es"
+format:
+  revealjs:
+    #chalkboard: 
+      #buttons: false
+    #toc: true
+    incremental: false
+    slide-number: true
+    preview-links: auto
+    logo: img/logo_uide.png
+    #css: styles.css
+    footer: <https://www.uide.edu.ec>
+    theme: dark
+    makeindex: true
+    #multiplex: true
+    transition: fade
+    chalkboard: true #Pizarra
+    auto-stretch: false
+    smaller: false
+    scrollable: true
+    presentation-title-slide-text-alig: left
+    presentation-slide-text-align: justify
+    #menu: true
+  #html: 
+    #code-fold: true
+    #html-math-method: katex
+    #multiplex: true
+    #transition: fade
+    #auto-stretch: false
+editor: visual
+execute: 
+  echo: true
+    
+bibliography: Bibliografia.bib
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl"
+editor_options: 
+  chunk_output_type: console
+---
+
+## ¿Qué es la Inteligencia Artificial?
+
+El objeto de estudio de la inteligencia artificial es el comportamiento inteligente en entidades artificiales.
+
+Cabe recalcar que la inteligencia artificial se nutre de otras disciplinas a las cuales ha influido de forma notable, entre ellas se encuentran las matemáticas, lógica, ciencias de la computación, cibertnética, ciencias cognitivas, entre otras.
+
+## Definición.
+
+Es la ciencia e Ingeniería de construir artefactos inteligentes, en especial programas inteligentes de computadora. También se relaciona con el uso de computadoras para entender la inteligencia humana \[John McCarty\].
+
+Es el estudio de los procesos computacionales que hacen posible percibir, razonar y actuar. \[Patrick Winston\].
+
+## ¿Cuando estamos utilizando técnicas de inteligencia artificial?
+
+|                                                    |                                                             |
+|----------------------------------------------------|-------------------------------------------------------------|
+| ![](img/1559808927767-3332447702.jpg){width="254"} | ![](img/lista-comandos-voz-de-ok-google-1.jpg){width="379"} |
+| ![](img/th-1278616812.jpg){width="300"}            | ![](img/th-403723642.jpg){fig-align="right" width="376"}    |
+
+## Asistentes Virtuales.
+
+|                                        |                                        |
+|----------------------------------------|----------------------------------------|
+| ![](img/photo_2022-11-02_06-28-29.jpg) | ![](img/photo_2022-11-02_06-28-24.jpg) |
+
+## Agentes en la Inteligencia Artificial.
+
+La palabra **agente** viene del latín **agüere** que significa "**hacer**" (que obra o tiene la capacidad de obrar).
+
+![](img/1490223293_original-1140x726-1179715676.jpg){fig-align="center" width="489"}
+
+Un agente es una entidad computacional (programa o robot) autónoma, que puede percibir su entorno a través de sensores y actuar en ese entorno utilizando actuadores.
+
+## Interacción de un agente con su entorno.
+
+![](img/hqdefault-2870183588.jpg){fig-align="center"}
+
+## Agentes Inteligentes.
+
+Un agente es una entidad computacional (programa o robot) autónoma, que puede percibir su entorno a través de sensores y actuar en ese entorno utilizando actuadores.
+
+Un agente es una entidad computacional que percibe su entorno y actúa sobre su entorno.
+
+-   **¿Qué percibe un agente?**
+
+-   **¿Qué hace con lo que percibe?**
+
+![](img/th-261237476.jpg){fig-align="center" width="365"}
+
+## Aprendamos a reconocer que son agentes inteligentes.
+
+Ejercicio.
+
+De los siguientes "Sistemas" son agentes:
+
+1.  Un reloj.
+2.  Un ventilador.
+3.  Un dispositivo móvil.
+4.  Un sistema de control de acceso barométrico.
+5.  Un sistema de aire acondicionado en un auto.
+6.  Una Lavadora/Secadora de ropa.
+7.  Un software para entrenar.
+8.  Un software para enseñar las tablas de multiplicar.
+9.  Un reloj despertador.
+10. Un sistema que controla si una persona saca un producto sin pagar.
+11. Internet.
+12. La red Wifi.
+
+## 
