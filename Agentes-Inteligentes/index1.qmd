@@ -126,6 +126,6 @@ De los siguientes "Sistemas" son agentes:
 
 Consultar:
 
-¿Qué Tipos de Agentes Inteligentes que existen?
+¿Qué Tipos de Agentes Inteligentes existen?
 
 ## 

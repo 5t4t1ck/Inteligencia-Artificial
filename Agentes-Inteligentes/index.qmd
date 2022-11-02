@@ -57,14 +57,14 @@ Es el estudio de los procesos computacionales que hacen posible percibir, razona
 ## ¿Cuando estamos utilizando técnicas de inteligencia artificial?
 
 |                                                    |                                                             |
-|---------------------------------|---------------------------------------|
+|----------------------------------------------------|-------------------------------------------------------------|
 | ![](img/1559808927767-3332447702.jpg){width="254"} | ![](img/lista-comandos-voz-de-ok-google-1.jpg){width="379"} |
 | ![](img/th-1278616812.jpg){width="300"}            | ![](img/th-403723642.jpg){fig-align="right" width="376"}    |
 
 ## Asistentes Virtuales.
 
 |                                        |                                        |
-|------------------------------------|------------------------------------|
+|----------------------------------------|----------------------------------------|
 | ![](img/photo_2022-11-02_06-28-29.jpg) | ![](img/photo_2022-11-02_06-28-24.jpg) |
 
 ## Agentes en la Inteligencia Artificial.
