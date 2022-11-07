@@ -134,6 +134,8 @@ Proponen un agilizar las uniones flujo-disco durante la fase de transformación 
 
 2.  Mediante Student Developer Pack de Github for Education.
 
+![](img/Screenshot%202022-11-07%20at%2003-15-28%20Discounted%20and%20free%20plans%20are%20available%20for%20educational%20use.png){fig-align="center"}
+
 ![](img/Screenshot%202022-11-07%20at%2001-47-00%20Azure%20-%20Sign%20up.png){fig-align="center"}
 
 3.  Creamos un Data Warehouse.
