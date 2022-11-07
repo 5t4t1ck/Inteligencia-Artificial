@@ -50,10 +50,11 @@ El **Big Data** es una área dentro de la Inteligencia Artificial, Dentro de la 
 
 ## Analice este Ejemplo.
 
-+-------------+-------------+-------------+-------------+-------------+
-|             |             |             |             |             |
-+=============+=============+=============+=============+=============+
-+-------------+-------------+-------------+-------------+-------------+
+![](img/agente-bienes-raices-dibujos-animados_24640-38918.webp){fig-align="center" width="526"}
+
+![](img/destaco-empresario-pila-papeles-documentos-oficina-interior-edificio-oficinas-monton-documentos-oficina-rutina-burocracia-big-data-papeleo-oficina-ilustracion-vector-estilo-plano_169241-3536-2726347144.jpg){fig-align="center" width="526"}
+
+![](img/bigdata.jpg){fig-align="center" width="526"}
 
 ## Glosario de Términos.
 
@@ -77,25 +78,41 @@ El **Big Data** es una área dentro de la Inteligencia Artificial, Dentro de la 
 
 ## Big Data.
 
-Definición:
+![](img/3-s2.0-C20200022334-cov200h.gif){fig-align="center" width="257"}
 
 Según @marinescu2023 dentro del mundo del Big Data existen algunas características del Big Data son las 3 "V".
 
-1.  Volumen.
-2.  Velocidad y
-3.  Variedad.
+![](img/Dibujo1.bmp){fig-align="center"}
 
 El **volumen** se explica por si mismo, la **velocidad** significa que las respuestas a las consultas y a las solicitudes de análisis de datos tienen que ser muy rápidas. La **variedad** reconoce la amplia gama de fuentes y formatos de datos. La persistencia significa que los datos tienen un valor duradero.
 
-El Big Data abarca un amplio espectro de datos que incluyen contenidos generados por los usuarios y datos generados por máquinas. Algunos de los datos están muy estructurados, como en el caso de los historiales de los pacientes en la atención sanitaria, las reclamaciones de seguros o los documentos hipotecarios. Otros son datos brutos procedentes de sensores, archivos de registro o datos generados por las redes sociales.
+## Datos Estructurados vs Datos no Estructurados.
+
+![](img/kjbh.png){fig-align="center"}
+
+El Big Data abarca un amplio espectro de datos que incluyen contenidos generados por los usuarios y datos generados por máquinas. Algunos de los **datos** están muy **estructurados**, como en el caso de los historiales de los pacientes en la atención sanitaria, las reclamaciones de seguros o los documentos hipotecarios. Otros son **datos brutos** procedentes de sensores, archivos de registro o datos generados por las redes sociales.
+
+## Bases de Datos Relacionales **vs** Bases de Datos No Relacionales.
+
+Las **bases de datos relacionales** en la actualidad son incapaces de satisfacer algunos de los requisitos, las bases de datos **NoSQL** han demostrado ser más adecuadas para muchas aplicaciones en la nube.
+
+![](img/SQL-Vs-NoSQL.png){fig-align="center"}
+
+**Recuerda:** Un esquema de base de datos es una forma de agrupar lógicamente objetos como tablas, vistas, procedimientos almacenados, etc. Un esquema puede verse como un contenedor de objetos. Se puede asignar un permiso de acceso a un usuario a un único esquema para que el usuario sólo pueda acceder a los objetos a los que está autorizado.
 
 ## ETL
+
+![](img/the-etl-workflow.png){fig-align="center"}
 
 -   **E**xtracción.
 
 -   **T**ransformación.
 
 -   **L**oad.
+
+Según [@mehmood2022;] **la extracción, transformación y carga en tiempo real (ETL)** es la parte integral de la creciente demanda de decisiones empresariales más rápidas dirigidas a un gran número de aplicaciones modernas. La extracción y transformación de flujos de datos no estructurados de múltiples fuentes utilizando datos de disco en un entorno distribuido son bloques de construcción ETL en tiempo real debido al volumen y la velocidad de los datos.
+
+Proponen un agilizar las uniones flujo-disco durante la fase de transformación de ETL mediante una arquitectura en tiempo real para ingerir flujos de datos no estructurados de múltiples fuentes sin tener que preocuparse por la estructura de fuentes de datos y transformarlos después de unirlos con datos de disco distribuidos.
 
 ## Ciclo de Vida de los Datos.
 
