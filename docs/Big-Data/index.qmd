@@ -48,6 +48,22 @@ El **Big Data** es una área dentro de la Inteligencia Artificial, Dentro de la 
 
 ## Agenda.
 
+-   Analisis de un ejemplo.
+
+-   Glosario de Términos.
+
+-   Big Data.
+
+-   Datos Estructurados vs Datos No Estructurados.
+
+-   Bases de Datos Relacionales vs Bases de Datos No Relacionales.
+
+-   ETL.
+
+-   Ciclo de Vida de Datos.
+
+-   Práctica.
+
 ## Analice este Ejemplo.
 
 ![](img/agente-bienes-raices-dibujos-animados_24640-38918.webp){fig-align="center" width="526"}
