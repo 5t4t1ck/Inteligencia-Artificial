@@ -1,5 +1,5 @@
 ---
-title: "Agentes Inteligentes"
+title: "Big Data"
 subtitle: ""
 date: "today"
 author: "Diego Saavedra García"
@@ -42,90 +42,69 @@ editor_options:
   chunk_output_type: console
 ---
 
-## ¿Qué es la Inteligencia Artificial?
+## Generalidades.
 
-El objeto de estudio de la inteligencia artificial es el comportamiento inteligente en entidades artificiales.
+El **Big Data** es una área dentro de la Inteligencia Artificial, Dentro de la misma encontramos grandes cantidades de datos estructurados y datos no estructurados. Esta semana conoceremos acerca de este gran mundo.
 
-Cabe recalcar que la inteligencia artificial se nutre de otras disciplinas a las cuales ha influido de forma notable, entre ellas se encuentran las matemáticas, lógica, ciencias de la computación, cibertnética, ciencias cognitivas, entre otras.
+## Agenda.
 
-## Definición.
+## Analice este Ejemplo.
 
-Es la ciencia e Ingeniería de construir artefactos inteligentes, en especial programas inteligentes de computadora. También se relaciona con el uso de computadoras para entender la inteligencia humana \[John McCarty\].
++-------------+-------------+-------------+-------------+-------------+
+|             |             |             |             |             |
++=============+=============+=============+=============+=============+
++-------------+-------------+-------------+-------------+-------------+
 
-Es el estudio de los procesos computacionales que hacen posible percibir, razonar y actuar. \[Patrick Winston\].
+## Glosario de Términos.
 
-## ¿Cuando estamos utilizando técnicas de inteligencia artificial?
+-   Datos Estructurados.
 
-|                                                    |                                                             |
-|----------------------------------------------------|-------------------------------------------------------------|
-| ![](img/1559808927767-3332447702.jpg){width="254"} | ![](img/lista-comandos-voz-de-ok-google-1.jpg){width="379"} |
-| ![](img/th-1278616812.jpg){width="300"}            | ![](img/th-403723642.jpg){fig-align="right" width="376"}    |
+-   Datos no Estructurados.
 
-## Asistentes Virtuales.
+-   On premise (on prem).
 
-|                                        |                                        |
-|----------------------------------------|----------------------------------------|
-| ![](img/photo_2022-11-02_06-28-29.jpg) | ![](img/photo_2022-11-02_06-28-24.jpg) |
+-   Cloud Computing
 
-## Agentes en la Inteligencia Artificial.
+    -   AWS (Amazon).
 
-La palabra **agente** viene del latín **agüere** que significa "**hacer**" (que obra o tiene la capacidad de obrar).
+    -   Azure (Microsoft)
 
-![](img/1490223293_original-1140x726-1179715676.jpg){fig-align="center" width="489"}
+-   Data Warehouse.
 
-Un agente es una entidad computacional (programa o robot) autónoma, que puede percibir su entorno a través de sensores y actuar en ese entorno utilizando actuadores.
+-   Machine Learning.
 
-## Interacción de un agente con su entorno.
+-   Big Data
 
-![](img/hqdefault-2870183588.jpg){fig-align="center"}
+## Big Data.
 
-## Agentes Inteligentes.
+Definición:
 
-Un agente es una entidad computacional (programa o robot) autónoma, que puede percibir su entorno a través de sensores y actuar en ese entorno utilizando actuadores.
+Según @marinescu2023 dentro del mundo del Big Data existen algunas características del Big Data son las 3 "V".
 
-Un agente es una entidad computacional que percibe su entorno y actúa sobre su entorno.
+1.  Volumen.
+2.  Velocidad y
+3.  Variedad.
 
--   **¿Qué percibe un agente?**
+El **volumen** se explica por si mismo, la **velocidad** significa que las respuestas a las consultas y a las solicitudes de análisis de datos tienen que ser muy rápidas. La **variedad** reconoce la amplia gama de fuentes y formatos de datos. La persistencia significa que los datos tienen un valor duradero.
 
--   **¿Qué hace con lo que percibe?**
+El Big Data abarca un amplio espectro de datos que incluyen contenidos generados por los usuarios y datos generados por máquinas. Algunos de los datos están muy estructurados, como en el caso de los historiales de los pacientes en la atención sanitaria, las reclamaciones de seguros o los documentos hipotecarios. Otros son datos brutos procedentes de sensores, archivos de registro o datos generados por las redes sociales.
 
-![](img/th-261237476.jpg){fig-align="center" width="365"}
+## ETL
 
-## Aprendamos a reconocer que son agentes inteligentes.
+-   **E**xtracción.
 
-Ejercicio.
+-   **T**ransformación.
 
-De los siguientes "Sistemas" son agentes:
+-   **L**oad.
 
-1.  Un reloj.
-2.  Un ventilador.
-3.  Un dispositivo móvil.
-4.  Un sistema de control de acceso biométrico.
-5.  Un sistema de aire acondicionado en un auto.
-6.  Una Lavadora/Secadora de ropa.
-7.  Un software para entrenar.
-8.  Un software para enseñar las tablas de multiplicar.
-9.  Un reloj despertador.
-10. Un sistema que controla si una persona saca un producto sin pagar.
-11. Internet.
-12. La red Wifi.
+## Ciclo de Vida de los Datos.
 
-## Analizando Código.
+-   Captura (ingesta).
 
-![](img/Screenshot%202022-11-02%20at%2007-07-00%20(7)%20Inteligencia%20Artificial%20-%20Episodio%201%20-%20Agentes%20Inteligentes%20-%20YouTube.png){fig-align="center"}
+-   Almacenamiento.
 
-![](img/codigo%20inflador.png){fig-align="center"}
+-   Procesamiento y análisis.
 
-## Los Agentes inteligentes.
+-   Exploración y visualización.
 
-![](img/AC1-1581290664.jpg){fig-align="center"}
-
-![](img/Screenshot%202022-11-02%20at%2006-32-58%20INTELIGENCIA%20ARTIFICIAL%20Agentes%20Inteligentes%20Tabla%20de%20Contenido%201.png){fig-align="center"}
-
-## Actividad.
-
-Consultar:
-
-¿Qué Tipos de Agentes Inteligentes que existen?
-
-## 
+## Bibliografía
