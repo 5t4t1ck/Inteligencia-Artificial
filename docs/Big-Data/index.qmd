@@ -124,4 +124,94 @@ Proponen un agilizar las uniones flujo-disco durante la fase de transformación 
 
 -   Exploración y visualización.
 
-## Bibliografía
+# Práctica.
+
+## Opción 1.
+
+1.  Crear una cuenta en Azure Gratis.
+
+![](img/Screenshot%202022-11-07%20at%2001-37-42%20Azure%20-%20Sign%20up.png){fig-align="center"}
+
+2.  Mediante Student Developer Pack de Github for Education.
+
+![](img/Screenshot%202022-11-07%20at%2001-47-00%20Azure%20-%20Sign%20up.png){fig-align="center"}
+
+3.  Creamos un Data Warehouse.
+
+![](img/Screenshot%202022-11-07%20at%2002-04-24%20Microsoft%20Azure.png){fig-align="center"}
+
+4.  Creamos la Máquina Virtual.
+
+![](img/Screenshot%202022-11-07%20at%2002-06-10%20Microsoft%20Azure.png){fig-align="center"}
+
+5.  Seleccionamos los Discos.
+
+![](img/Screenshot%202022-11-07%20at%2002-07-21%20Microsoft%20Azure.png){fig-align="center"}
+
+6.  Seleccionamos la Interfaz de Red.
+
+![](img/Screenshot%202022-11-07%20at%2002-08-04%20Microsoft%20Azure.png){fig-align="center"}
+
+7.  Configuramos Datos de la Administración.
+
+![](img/Screenshot%202022-11-07%20at%2002-09-17%20Microsoft%20Azure.png){fig-align="center"}
+
+8.  Configuramos la Sección de Monitoreo.
+
+![](img/Screenshot%202022-11-07%20at%2002-10-06%20Microsoft%20Azure.png){fig-align="center"}
+
+9.  Configurar opciones avanzadas.
+
+![](img/Screenshot%202022-11-07%20at%2002-11-38%20Microsoft%20Azure.png){fig-align="center"}
+
+10. Configuramos la Sección de Etiquetas.
+
+![](img/Screenshot%202022-11-07%20at%2002-12-28%20Microsoft%20Azure.png){fig-align="center"}
+
+## Opción 2.
+
+Utilizar los valores predeterminados recomendados que se ajusten a su carga de trabajo.
+
+![](img/Screenshot%202022-11-07%20at%2002-16-03%20Microsoft%20Azure.png){fig-align="center"}
+
+## Project Online Data Warehouse.
+
+![](img/Screenshot%202022-11-07%20at%2002-39-19%20Microsoft%20Azure.png){fig-align="center"}
+
+1.  Ingreso de Datos Básicos.
+
+![](img/Screenshot%202022-11-07%20at%2002-40-40%20Microsoft%20Azure.png){fig-align="center"}
+
+2.  Revisar y Crear.
+
+![](img/Screenshot%202022-11-07%20at%2002-41-41%20Microsoft%20Azure.png){fig-align="center"}
+
+3.  Implantación Personalizada.
+
+![](img/Screenshot%202022-11-07%20at%2002-43-15%20Microsoft%20Azure.png){fig-align="center"}
+
+4.  Validación Superada.
+
+![](img/Screenshot%202022-11-07%20at%2002-44-13%20Microsoft%20Azure.png){fig-align="center"}
+
+5.  Creando la Implementación.
+
+## Creación de una Área de Trabajo de Synapse.
+
+![](img/Screenshot%202022-11-07%20at%2002-52-53%20Microsoft%20Azure.png){fig-align="center"}
+
+1.  Validación de Datos.
+
+![](img/Screenshot%202022-11-07%20at%2003-01-55%20Microsoft%20Azure.png){fig-align="center"}
+
+2.  Creación de la implementación.
+
+![](img/Screenshot%202022-11-07%20at%2003-02-39%20Microsoft%20Azure.png){fig-align="center"}
+
+![](img/Screenshot%202022-11-07%20at%2003-03-22%20Microsoft%20Azure.png){fig-align="center"}
+
+3.  Se completo la Implementación.
+
+![](img/Screenshot%202022-11-07%20at%2003-07-14%20Microsoft%20Azure.png){fig-align="center"}
+
+## Biografía
