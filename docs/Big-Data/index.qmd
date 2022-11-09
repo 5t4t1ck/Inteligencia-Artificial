@@ -48,7 +48,7 @@ El **Big Data** es una área dentro de la Inteligencia Artificial, Dentro de la 
 
 ## Agenda.
 
--   Analisis de un ejemplo.
+-   Análisis de un ejemplo.
 
 -   Glosario de Términos.
 
@@ -174,7 +174,7 @@ Proponen un agilizar las uniones flujo-disco durante la fase de transformación 
 
 ![](img/Screenshot%202022-11-07%20at%2002-09-17%20Microsoft%20Azure.png){fig-align="center"}
 
-8.  Configuramos la Sección de Monitoreo.
+8.  Configuramos la Sección de Monitorio.
 
 ![](img/Screenshot%202022-11-07%20at%2002-10-06%20Microsoft%20Azure.png){fig-align="center"}
 
@@ -231,5 +231,219 @@ Utilizar los valores predeterminados recomendados que se ajusten a su carga de t
 3.  Se completo la Implementación.
 
 ![](img/Screenshot%202022-11-07%20at%2003-07-14%20Microsoft%20Azure.png){fig-align="center"}
+
+# ![](img/cloud-logo.svg)
+
+En esta clase vamos a conocer algunas soluciones que nos ofrece **Google Cloud** relacionadas con **Big Data**.
+
+## Lecturas sugeridas.
+
+[Cloud Console - Web UI Admin \| Google Cloud](https://cloud.google.com/cloud-console)
+
+[Smart Analytics Solutions \| Google Cloud](https://cloud.google.com/solutions/smart-analytics)
+
+## Historia de Google Cloud.
+
+![](img/historia.png){fig-align="center"}
+
+## Complejidades de Data Lakes y Analytics.
+
+![](img/Complegidades%20data%20lake.png){fig-align="center"}
+
+## Listo para IA: Hiper personalizado, Hiper optimizado y en Tiempo Real.
+
+![](img/Complegidad%20Introducci%C3%B3n%20a%20big%20data.png){fig-align="center"}
+
+## Base Completa para el ciclo de vida de datos y análisis.
+
+![](img/Complegidades%20data%20lake%202.png.png){fig-align="center"}
+
+## ¿Cómo conectar a usuarios para crear más impacto?
+
+![](img/complegidad%203.png){fig-align="center"}
+
+## ¿Qué se necesita realizar en los distintos Roles existentes en Data Science?
+
+![](img/roles.png){fig-align="center"}
+
+## ¿Cómo se apoya en las Herramientas?
+
+![](img/como%20apoya.png){fig-align="center" width="668"}
+
+## Ecosistema de Google Cloud.
+
+![](img/Google%20Cloud%20Platform%20para%20big%20data.png){fig-align="center"}
+
+## ¿Por qué crear Data Lakes en GCP?
+
+![](img/Google%20Cloud%20Platform%20para%20big%20data%201.png){fig-align="center" width="774"}
+
+## Arquitectura Referencial.
+
+![](img/Google%20Cloud%20Platform%20para%20big%20data%202.png){fig-align="center"}
+
+## Democratizar conocimientos.
+
+![](img/Google%20Cloud%20Platform%20para%20big%20data%203.png){fig-align="center" width="676"}
+
+## Identificar Datos Sensibles.
+
+![](img/Google%20Cloud%20Platform%20para%20big%20data%204.png){fig-align="center" width="692"}
+
+## Capacidades de Data Loss Prevention.
+
+![](img/Google%20Cloud%20Platform%20para%20big%20data%205.png){fig-align="center" width="711"}
+
+## Ejemplo de Data Loss Prevention.
+
+![](img/Google%20Cloud%20Platform%20para%20big%20data%206.png){fig-align="center"}
+
+##  para ayudar a Democratizar conocimientos.
+
+![](img/Google%20Cloud%20Platform%20para%20big%20data%207.png){fig-align="center" width="698"}
+
+## Arquitectura: Ingestión de meta-datos tipos personalizados de Data Catalog.
+
+![](img/Google%20Cloud%20Platform%20para%20big%20data%208.png){fig-align="center" width="756"}
+
+## Control de Datos Confidenciales por Clases de Datos.
+
+![](img/Google%20Cloud%20Platform%20para%20big%20data%209.png){fig-align="center" width="728"}
+
+## Control de Acceso.
+
+![](img/Google%20Cloud%20Platform%20para%20big%20data%2010.png){fig-align="center" width="697"}
+
+# Explorando ![](img/cloud-logo.svg) para Big Data e IA.
+
+## Interfaz de Google Cloud.
+
+![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20001.png){fig-align="center" width="658"}
+
+## Big Query
+
+![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20004.pngGoogle%20Cloud.png){fig-align="center"}
+
+![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20003.png){fig-align="center"}
+
+Es un servicio **serverless** totalmente escalable que permite trabajar con petabytes de información y lo más importante permite separar el cómputo del procesamiento.
+
+## Pub-Sub.
+
+![](img/Screenshot%202022-11-09%20at%2006-31-42%20Trabajos%20%E2%80%93%20Dataflow%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Consola%20de%20Google%20Cloud.png){fig-align="center"}
+
+![](img/Screenshot%202022-11-09%20at%2006-32-18%20Temas%20%E2%80%93%20Pub_Sub%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Consola%20de%20Google%20Cloud.png){fig-align="center"}
+
+Permite trabajar a través de tópicos, esos tópicos permiten conectarnos con distintas fuentes de información y obtener éstos elementos en tiempo real. Éstos elementos pueden llevarse hasta un DataFlow para poder hacer filtrado, poder hacer ordenamiento de éstos registros y luego cargarlos en Big Query.
+
+## DataFlow.
+
+![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20006.pngGoogle%20Cloud.png){fig-align="center"}
+
+![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20007.png){fig-align="center"}
+
+Es un servicio de extracción, transformación y carga de datos que puede funcionar tanto Batch como Near Real Time. Éste servicio permite trabajar en base a jobs y éstos pueden ser a través de un Template y ya vienen pre configurados distintos Templates.
+
+## Data Catalog.
+
+![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20009.pngGoogle%20Cloud.pngGoogle%20Cloud.png){fig-align="center"}
+
+![](img/Screenshot%202022-11-09%20at%2006-34-19%20Google%20Cloud%20Data%20Catalog%20API%20%E2%80%93%20Marketplace%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Consola%20de%20Google%20Cloud.png){fig-align="center"}
+
+Es un servicio totalmente escalable que permite administrar la metadata que tu tienes en tu organización. Ésta metadata recuerda que se genera desde los procesos de ingesta hasta los repositorios de datos, por lo tanto es bastante útil que puedas conectar tus sistemas y poder almacenar ésta data para que distintos usuarios dentro de tu organización puedan conocer cual es la información que tienes cargado en Google Cloud.
+
+## Vertex AI:
+
+![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20010.png){fig-align="center"}
+
+![](img/Screenshot%202022-11-09%20at%2006-35-35%20Panel%20%E2%80%93%20Vertex%20AI%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Consola%20de%20Google%20Cloud.png){fig-align="center"}
+
+Almacena todas las funcionalidades para poder hacer y crear Datasets, hacer ingesta, hacer entrenamiento, deployement de éstos modelos de una forma asistida con AutoML Tables o de una forma programática con Jupyter Notebook. Éstas dos opciones están disponibles en Vertex AI.
+
+## Vision.
+
+![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20012.png){fig-align="center"}
+
+![](img/Screenshot%202022-11-09%20at%2006-37-04%20Descripci%C3%B3n%20general%20%E2%80%93%20Vertex%20AI%20Vision%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Consola%20de%20Google%20Cloud.png){fig-align="center"}
+
+Nos permite resolver una serie de casos de uso enfocados en la detección tanto de vídeo como de imágenes para detectar elementos.
+
+## Document AI.
+
+![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20013.png){fig-align="center"}
+
+![](img/Screenshot%202022-11-09%20at%2006-38-16%20Descripci%C3%B3n%20general%20%E2%80%93%20Document%20AI%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Consola%20de%20Google%20Cloud.png){fig-align="center"}
+
+Permite tomar información no estructurada desde distintos formularios, PDF, correo electrónico, y poder extraer ésta información para poder procesarla de una forma ordenada y encontrar insight de éstos textos.
+
+## Speech to Text.
+
+![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20014.png){fig-align="center"}
+
+Permite resolver casos de uso donde tengo audio, y ese audio necesito hacer una transcripción a texto para después analizarlo con los servicios de lenguaje natural.
+
+## Natural Language.
+
+![](img/Screenshot%202022-11-09%20at%2006-40-48%20Facturaci%C3%B3n%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console.png){fig-align="center"}
+
+Permite analizar, extraer sentimientos, extraer entidades y todo eso gracias al análisis semántico de información de texto.
+
+## Pepelines
+
+Una tubería es una serie de comandos conectados por operadores de tubería (\|) (ASCII 124). Cada operador de tubería envía los resultados del comando precedente al siguiente comando.
+
+La salida del primer comando puede ser enviada para su procesamiento como entrada al segundo comando. Y esa salida puede ser enviada a otro comando más. El resultado es una compleja cadena de comandos o pipeline que se compone de una serie de comandos simples .
+
+## Cloud Dataflow.
+
+![](img/Screenshot%202022-11-09%20at%2004-59-12%20Cloud%20Dataflow16.png){fig-align="center" width="718"}
+
+## Herramientas por cada pepeline.
+
+![](img/Screenshot%202022-11-09%20at%2005-00-37%20Cloud%20Dataflow17.png){fig-align="center"}
+
+## ¿Qué es Cloud Dataflow?
+
+![](img/Cloud%20Dataflow.png){fig-align="center"}
+
+![](img/Cloud%20Dataflow1.png){fig-align="center"}
+
+## ¿Qué es BigQuery?
+
+![](img/BigQuery%20001.png){fig-align="center" width="687"}
+
+![](img/BigQuery%20002.png.png){fig-align="center" width="696"}
+
+## BigQuery: Arquitectura.
+
+![](img/BigQuery%20003.png){fig-align="center"}
+
+## Separación de Almacenamiento y cómputo.
+
+![](img/BigQuery%20004.png){fig-align="center"}
+
+![](img/BigQuery%20005.png){fig-align="center"}
+
+![](img/BigQuery%20006.png){fig-align="center"}
+
+![](img/BigQuery%20007.png){fig-align="center"}
+
+## El ecosistema de BigQuery.
+
+![](img/BigQuery%20008.png){fig-align="center"}
+
+## BigQuery ML para Data Analyst y data Scientists.
+
+![](img/BigQuery%20009.png){fig-align="center" width="498"}
+
+## Analiza datos de GIS BigQuery con SL.
+
+![](img/BigQuery%20010.png){fig-align="center" width="695"}
+
+## Ver datos de BigQuery con Data Studio Explorer.
+
+![](img/BigQuery%20011.png){fig-align="center" width="691"}
+
+# Demo...
 
 ## Biografía
