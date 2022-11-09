@@ -298,7 +298,7 @@ En esta clase vamos a conocer algunas soluciones que nos ofrece **Google Cloud**
 
 ![](img/Google%20Cloud%20Platform%20para%20big%20data%206.png){fig-align="center"}
 
-##  para ayudar a Democratizar conocimientos.
+## Ayudar a Democratizar conocimientos.
 
 ![](img/Google%20Cloud%20Platform%20para%20big%20data%207.png){fig-align="center" width="698"}
 
@@ -312,21 +312,23 @@ En esta clase vamos a conocer algunas soluciones que nos ofrece **Google Cloud**
 
 ## Control de Acceso.
 
-![](img/Google%20Cloud%20Platform%20para%20big%20data%2010.png){fig-align="center" width="697"}
+![](img/Google%20Cloud%20Platform%20para%20big%20data%2010.png){fig-align="center" width="458"}
 
 # Explorando ![](img/cloud-logo.svg) para Big Data e IA.
 
 ## Interfaz de Google Cloud.
 
-![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20001.png){fig-align="center" width="658"}
+![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20001.png){fig-align="center" width="798"}
+
+<https://cloud.google.com/>
 
 ## Big Query
 
-![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20004.pngGoogle%20Cloud.png){fig-align="center"}
+![](img/Screenshot%202022-11-09%20at%2008-52-35%20Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console.png){fig-align="center"}
 
 ![](img/Bienvenida%20%E2%80%93%20AsistenteVirtual%20%E2%80%93%20Google%20Cloud%20Console%20003.png){fig-align="center"}
 
-Es un servicio **serverless** totalmente escalable que permite trabajar con petabytes de información y lo más importante permite separar el cómputo del procesamiento.
+Es un servicio **serverless** totalmente escalable que permite trabajar con **petabytes** de información y lo más importante permite separar el cómputo del procesamiento.
 
 ## Pub-Sub.
 
@@ -388,7 +390,9 @@ Permite resolver casos de uso donde tengo audio, y ese audio necesito hacer una 
 
 Permite analizar, extraer sentimientos, extraer entidades y todo eso gracias al análisis semántico de información de texto.
 
-## Pepelines
+## Pepelines.
+
+![](img/0RbDT.png){fig-align="center"}
 
 Una tubería es una serie de comandos conectados por operadores de tubería (\|) (ASCII 124). Cada operador de tubería envía los resultados del comando precedente al siguiente comando.
 
@@ -426,7 +430,7 @@ La salida del primer comando puede ser enviada para su procesamiento como entrad
 
 ![](img/BigQuery%20006.png){fig-align="center"}
 
-![](img/BigQuery%20007.png){fig-align="center"}
+![](img/BigQuery%20007.png){fig-align="center" width="741"}
 
 ## El ecosistema de BigQuery.
 
@@ -434,15 +438,19 @@ La salida del primer comando puede ser enviada para su procesamiento como entrad
 
 ## BigQuery ML para Data Analyst y data Scientists.
 
-![](img/BigQuery%20009.png){fig-align="center" width="498"}
+-   **Ejecuta** modelos de ML sin mover datos de BigQuery.
+
+-   **Itera** en modelos en SQL en BigQuery para aumentar la velocidad de desarrollo.
+
+-   **Automatiza** la selección del modelo y el hypertuning.
 
 ## Analiza datos de GIS BigQuery con SL.
 
-![](img/BigQuery%20010.png){fig-align="center" width="695"}
+![](img/BigQuery%20010.png){fig-align="center" width="403"}
 
 ## Ver datos de BigQuery con Data Studio Explorer.
 
-![](img/BigQuery%20011.png){fig-align="center" width="691"}
+![](img/BigQuery%20011.png){fig-align="center" width="404"}
 
 # Demo...
 
