@@ -1,0 +1,118 @@
+---
+title: "Aprendizaje No Supervisado"
+subtitle: ""
+date: "today"
+author: "Diego Saavedra García"
+lang: "es"
+format:
+  revealjs:
+    #chalkboard: 
+      #buttons: false
+    #toc: true
+    incremental: false
+    slide-number: true
+    preview-links: auto
+    logo: img/logo_uide.png
+    #css: styles.css
+    footer: <https://www.uide.edu.ec>
+    theme: dark
+    makeindex: true
+    #multiplex: true
+    transition: fade
+    chalkboard: true #Pizarra
+    auto-stretch: false
+    smaller: false
+    scrollable: true
+    presentation-title-slide-text-alig: left
+    presentation-slide-text-align: justify
+    #menu: true
+  #html: 
+    #code-fold: true
+    #html-math-method: katex
+    #multiplex: true
+    #transition: fade
+    #auto-stretch: false
+editor: visual
+execute: 
+  echo: true
+    
+bibliography: Bibliografia.bib
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl"
+editor_options: 
+  chunk_output_type: console
+---
+
+# Tema: Aprendizaje Supervisado.
+
+![](img/no-supervisado-facialix.jpg){fig-align="center" width="579"}
+
+## Generalidades.
+
+Una de las principales clasificaciones del **Machine Learning** es acerca del **Aprendizaje Supervisado**, en esta clase aprenderemos acerca de esta categoría que engloba el 90% de los Algoritmos del campo del Machine Learning, también la diferencia con al Aprendizaje No Supervisado que se centra en conocer acerca de **¿Cómo aprenden las máquinas?**
+
+## Agenda.
+
+-   Aprendizaje Supervisado.
+
+-   Aprendizaje No Supervisado.
+
+-   Diferencias.
+
+## Aprendizaje Supervisado.
+
+-   Es el más utilizado
+-   Incluye Algoritmos como regresión lineal y logístico, máquinas de vectores de soporte, entre otros.
+-   Actúa como una guía para enseñar el algoritmo las conclusiones a las que debe llegar, es decir la salida del algoritmo ya es conocida.
+
+Estos métodos son los más sencillos de realizar. En ellos se parte de un **conocimiento a priori**.
+El objetivo es, mediante unos datos de entrenamiento, deducir una
+función que haga lo mejor posible el mapeo entre unas entradas y una
+salida. Los datos de entrenamiento constan de tuplas (X,Y), siendo X las variables que predicen una determinada salida Y
+
+La variable a predecir Y
+
+puede ser una variable cuantitativa (como en el caso de problemas de
+regresión) o cualitativa (como en el caso de problemas de
+clasificación).
+
+![](img/supervisado.png){fig-align="center"}
+
+## Aprendizaje No Supervisado.
+
+-   Está más cerca de lo que es la Inteligencia Artificial.
+-   Incluye Clustering o agrupamiento, k-means y reglas de asociación.
+-   No existe un conjunto de datos de entrenamiento y los resultados son desconocidos, se adentra en el problema de manera ciega y con solo operaciones lógicas para guiarlo.
+
+Al contrario que en el aprendizaje supervisado, en este caso **no existe conocimiento a priori**. Aquí ya no se tienen tuplas (X,Y), simplemente se tienen X
+
+El objetivo del aprendizaje no supervisado es modelizar la estructura
+o distribución de los datos para aprender más sobre ellos. Sirve tanto
+para entender como para resumir un conjunto de datos.
+
+Se llama no supervisado porque, contrariamente al supervisado, tiende a ser **más subjetivo** ya que no tiene respuestas correctas. Los algoritmos sirven para descubrir y presentar estructuras interesantes en los datos.
+
+![](img/nosupervisado.png){fig-align="center"}
+
+## Diferencias Parte 1.
+
+![](img/48054954426_a75cf0ea67_b.jpg){fig-align="center"}
+
+## Diferencias Parte 2.
+
+| Aprendizaje Supervisado.                                                                                                                | Aprendizaje No Supervisado.                                                                                                                                               |
+|--------------------------------|----------------------------------------|
+| Es el más utilizado                                                                                                                     | Está ligado a la Inteligencia Artificial                                                                                                                                  |
+| Incluye algoritmos como regresión lineal y logístico, máquinas de vectores de soporte, entre otros.                                     | Incluye clustering o agrupamiento, k-means y reglas de asociación.                                                                                                        |
+| Actúa como una guía para enseñar al algoritmo las conclusiones a las que debe llegar, es decir la salida del algoritmos ya es conocida. | No existe un conjunto de datos de entrenamiento y los resultados son desconocidos, se centra en el problema de mantera ciega y con solo operaciones lógicas para guiarlo. |
+
+: Diferencias entre Aprendizaje Supervisado y No Supervisado.
+
+## ¿Cómo se aplica en la investigación?
+
+![](img/Article.png){fig-align="center"}
+
+## 
+
+# Demo...
+
+## Biografía
